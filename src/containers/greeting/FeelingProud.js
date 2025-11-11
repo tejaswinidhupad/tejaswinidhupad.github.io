@@ -1,7 +1,21 @@
 import React from "react";
 import "./FeelingProud.css";
+import myImage from "C:/Users/Tejaswini Dhupad/tejaswinidhupad.github.io/src/assests/images/tej_img.png"; // replace with my file name
 
-function FeelingProud(props) {
+export default function FeelingProud() {
+  return (
+    <div className="feeling-proud-container">
+      <img
+        src={myImage}
+        alt="Tejaswini Dhupad"
+        className="feeling-proud-image"
+      />
+    </div>
+  );
+}
+
+// OLD CODE start
+/* function FeelingProud(props) {
   const theme = props.theme;
   return (
     <svg
@@ -520,3 +534,5 @@ function FeelingProud(props) {
 }
 
 export default FeelingProud;
+ */
+// OLD CODE end

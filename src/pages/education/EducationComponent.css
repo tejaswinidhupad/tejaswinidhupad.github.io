@@ -3,30 +3,41 @@
 }
 
 .basic-education {
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 3%;
+  margin-right: 3%;
 }
 
+/* Flex layout for image + text section */
 .heading-div {
   display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
 }
 
 .heading-div > * {
   flex: 1;
 }
 
+/* Center image in its container */
 .heading-img-div {
+  display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.heading-text-div {
-  text-align: center;
+/* Ensure image looks clean and scales properly */
+.education-image {
+  width: 100%;
+  max-width: 700px; /* adjust to desired size */
+  height: auto;
+  object-fit: contain;
+  border-radius: 12px; /* optional, adds smooth corners */
 }
 
-.heading-img-div > * {
-  max-width: 100%;
-  height: auto;
+/* Text styling */
+.heading-text-div {
+  text-align: center;
 }
 
 .heading-text {
@@ -35,7 +46,7 @@
   font-family: "Google Sans Medium";
   line-height: 1.1;
   text-align: center;
-  margin-top: 100px;
+  margin-top: 10px;
 }
 
 .heading-sub-text {
@@ -44,27 +55,35 @@
   text-align: center;
 }
 
+/* 🔹 Responsive adjustments */
 @media (max-width: 1380px) {
   .heading-text {
     font-size: 50px;
-    margin-top: 80px;
+    margin-top: 10px;
   }
   .heading-sub-text {
     font-size: 25px;
   }
 }
 
+/* 🔹 Stack vertically on small screens */
 @media (max-width: 768px) {
+  .heading-div {
+    flex-direction: column;
+    text-align: center;
+  }
+
   .heading-text {
     font-size: 30px;
-    margin-top: 20px;
+    margin-top: 10px;
   }
 
   .heading-sub-text {
     font-size: 20px;
   }
 
-  .heading-div {
-    flex-direction: column;
+  .education-image {
+    max-width: 250px;
+    margin-bottom: 10px;
   }
 }
