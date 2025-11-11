@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3db777ab.chunk.css",
+    "main.js": "/static/js/main.c2e66c82.chunk.js",
+    "main.js.map": "/static/js/main.c2e66c82.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.de6673d8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.de6673d8.js.map",
+    "static/js/2.0a92291e.chunk.js": "/static/js/2.0a92291e.chunk.js",
+    "static/js/2.0a92291e.chunk.js.map": "/static/js/2.0a92291e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d15bc0934b873284bd4c1326571dd331.js": "/precache-manifest.d15bc0934b873284bd4c1326571dd331.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3db777ab.chunk.css.map": "/static/css/main.3db777ab.chunk.css.map",
+    "static/js/2.0a92291e.chunk.js.LICENSE.txt": "/static/js/2.0a92291e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactme.png": "/static/media/contactme.2091594d.png",
+    "static/media/coursera.png": "/static/media/coursera.6f35f5a6.png",
+    "static/media/cybage.png": "/static/media/cybage.638af7aa.png",
+    "static/media/databricks.png": "/static/media/databricks.21197c68.png",
+    "static/media/datacamp.png": "/static/media/datacamp.68998351.png",
+    "static/media/deloitte.png": "/static/media/deloitte.f17270d8.png",
+    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/finastra.png": "/static/media/finastra.ebbbb254.png",
+    "static/media/google.png": "/static/media/google.cafd1d73.png",
+    "static/media/linkedin.png": "/static/media/linkedin.18638c36.png",
+    "static/media/miko.png": "/static/media/miko.ba20e1b9.png",
+    "static/media/pu.png": "/static/media/pu.81f78ba3.png",
+    "static/media/stib.png": "/static/media/stib.a9d18c0b.png",
+    "static/media/tej_crop_circle.png": "/static/media/tej_crop_circle.9e68bbb3.png",
+    "static/media/tej_grad.png": "/static/media/tej_grad.24b72555.png",
+    "static/media/tej_img.png": "/static/media/tej_img.a2ad41a8.png",
+    "static/media/tej_img3.png": "/static/media/tej_img3.9dde8ea8.png",
+    "static/media/tue.png": "/static/media/tue.7fa0deab.png",
+    "static/media/ulb.png": "/static/media/ulb.df2b5a5f.png",
+    "static/media/upc.png": "/static/media/upc.4b009d38.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de6673d8.js",
+    "static/js/2.0a92291e.chunk.js",
+    "static/css/main.3db777ab.chunk.css",
+    "static/js/main.c2e66c82.chunk.js"
+  ]
+}
