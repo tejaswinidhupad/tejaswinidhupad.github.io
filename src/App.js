@@ -18,7 +18,7 @@ function App() {
     }
   }, []);
 
-  const [theme, setTheme] = useState(localStorage.getItem("theme") || "dark");
+  const [theme, setTheme] = useState("light"); // 👈 force light theme always
   const useCursor = settings.useCustomCursor;
 
   return (
