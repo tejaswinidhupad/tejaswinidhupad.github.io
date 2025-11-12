@@ -62,34 +62,6 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-        /*         {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
-        },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "devicon-plain:nodejs-wordmark",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "ElectronJS",
-          fontAwesomeClassname: "simple-icons:electron",
-          style: {
-            color: "#47848F",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "simple-icons:python",
-          style: {
-            color: "#3776AB",
-          },
-        }, */
         {
           skillName: "Azure",
           fontAwesomeClassname: "logos:microsoft-azure",
@@ -97,34 +69,6 @@ const skills = {
             color: "#f89820",
           },
         },
-        /*  {
-           skillName: "Power BI",
-           fontAwesomeClassname: "logos:powerbi",
-           style: {
-             color: "#02569B",
-           },
-         },
-         {
-           skillName: "Tableau",
-           fontAwesomeClassname: "logos:tableau",
-           style: {
-             color: "#29B0EE",
-           },
-         }, */
-        /* {
-          skillName: "MySQL",
-          fontAwesomeClassname: "simple-icons:mysql",
-          style: {
-            color: "#4479A1",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#439743",
-          },
-        }, */
         {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
@@ -185,20 +129,6 @@ const skills = {
             color: "#336791",
           },
         },
-        /* {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "GitHub Actions",
-          fontAwesomeClassname: "simple-icons:githubactions",
-          style: {
-            color: "#5b77ef",
-          },
-        }, */
       ],
     },
   ],
