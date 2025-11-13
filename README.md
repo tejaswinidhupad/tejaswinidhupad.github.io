@@ -1,8 +1,11 @@
-# PortfolioV2
+# 🌐 My Personal Portfolio Website
 
-![PortfolioV2](/images/portfolio1.gif)
+Welcome to my personal portfolio website, built with React, JavaScript, and GitHub Pages.
+This project showcases my journey as a Data & Analytics professional who decided to step beyond dashboards and dive into the world of frontend development 💻✨
 
-### A clean portfolio template. (Readme will be updated soon)
+# 🚀 Live Demo
+
+🔗 Visit my [Portfolio](https://tejaswinidhupad.github.io/#/home)
 
 # Sections
 
@@ -42,8 +45,7 @@
 - Run `npm run deploy` to build and create a branch called `gh-pages`. It will push the `build` files to that branch.
 - The last step in deploying is to enable `Github Pages` in settings of the repository and select `gh-pages` branch.
 
-Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.  
-
+Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.
 
 # Technologies used 🛠️
 
@@ -60,5 +62,5 @@ Now, your website is successfully deployed and you can visit it at `<your-github
 
 # References
 
-Based on https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio
+Based on [https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio](https://github.com/harikanani/harikanani.github.io)
 Illustrations: https://undraw.co/
