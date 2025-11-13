@@ -12,7 +12,6 @@ const greeting = {
   title: "Hello 👋.",
   title2: "Tejaswini",
   logo_name: "tejaswini.d()",
-  // nickname: "harry / picleric",
   full_name: "Tejaswini Dhupad",
   subTitle: "Analytics Engineer & Data-Driven Creator 🔥. Always learning.",
   resumeLink:
@@ -160,8 +159,6 @@ const degrees = {
       descriptions: [
         "⚡ This semester focuses on fundamental concepts of Big Data. How data management can scale to large volumes while potentially also dealing with velocity and variety; fundamental concepts to conduct rigorous data analysis with Machine Learning techniques and basic knowledge to assess the viability of a business idea. Finally, we learn the core concepts of Semantic Data Management applying Knowledge Graphs and Semantic Web technologies.",
         "⚡ Courses taken: Big Data Management, Semantic Data Management, Machine Learning, Viability of Data related Business Projects & Debates on Ethics of Big Data",
-        /* "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
-        "⚡ I have secured 9.82 CGPA.", */
       ],
       website_link: "https://www.upc.edu/en",
     },
@@ -176,7 +173,6 @@ const degrees = {
         "⚡ This semester introduces essential topics in BI, covering data warehouses, data mining, and business processes, as well as essential aspects of data management, covering traditional relational technology and new emerging paradigms.",
         "⚡ Courses taken: Data Warehouses, Data Mining, Business Process Management, Database Systems Architecture & Advanced Databases",
         "⚡ Data Mining project, conducted in collaboration with STIB-MIVB, directly led to securing a three-month paid internship at the company.",
-        /*  "⚡ I have secured 9.82 CGPA.", */
       ],
       website_link: "https://www.ulb.be/en",
     },
@@ -206,7 +202,6 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1k6xV5TWkmaukj1zuh3dt8u611Fjs6HSY/view",
       alt_name: "Databricks",
-      // color_code: "#2AAFED",
       color_code: "#FF3621",
     },
     {
@@ -225,7 +220,6 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1urrp28VmkRvJ_2oCUg-BG0fYQ9aDZBDX/view",
       alt_name: "Datacamp",
-      // color_code: "#F6B808",
       color_code: "#03EF62",
     },
     {
@@ -255,22 +249,11 @@ const certifications = {
       alt_name: "LinkedIn",
       color_code: "#EA4335",
     },
-    /*  {
-      title: "Postman Student Expert",
-      subtitle: "Postman",
-      logo_path: "postman.png",
-      certificate_link:
-        "https://badgr.com/public/assertions/h2qevHs4SlyoHErJQ0mn2g",
-      alt_name: "Postman",
-      // color_code: "#f36c3d",
-      color_code: "#fffbf3",
-    }, */
     // color_code: "#8C151599",
     // color_code: "#7A7A7A",
     // color_code: "#0C9D5899",
     // color_code: "#C5E2EE",
     // color_code: "#ffc475",
-    // color_code: "#g",
     // color_code: "#ffbfae",
     // color_code: "#fffbf3",
     // color_code: "#b190b0",
@@ -304,37 +287,6 @@ Contributed significantly to production readiness by developing the initial PySp
 Led the documentation effort by creating detailed design documents outlining the architecture, ETL logic, and validation procedures for the CDA implementation, ensuring maintainability and compliance.`,
           color: "#0071C5",
         },
-        // {
-        //   title: "Node.js Backend Developer",
-        //   company: "Valora Infotech",
-        //   company_url: "http://valorainfotech.com/",
-        //   logo_path: "valora.jpg",
-        //   duration: "Oct 2020 - Dec 2022",
-        //   location: "Surat, Gujarat",
-        //   description: `Train, oversee, and mentor young software development employees. I created and managed the admin panel backend and a gambling application as a Node.js backend developer. I obtained knowledge in Web Socket, Payment Gateway Integration, and gaming legislation, while growing my industry experience and investigating new technologies.
-        //   Focus on change request functions in close collaboration with the project manager and team leads.
-        //   Developed new and maintained existing applications.
-        //   Increased productivity and problem-solving technics by 20%.
-        //   We primarily used PERN and MERN Stack. 80% of my work was doing backend development and the remaining 20% was DevOps-related tasks.
-        //   `,
-        //   // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
-        //   color: "#0071C5",
-        // },
-        // {
-        //   title: "Node.js Backend Developer (Intern)",
-        //   company: "Valora Infotech",
-        //   company_url: "http://valorainfotech.com/",
-        //   logo_path: "valora.jpg",
-        //   duration: "Oct 2020 - Mar 2021",
-        //   location: "Surat, Gujarat",
-        //   description: `Focus on change request functions in close collaboration with the project manager and team leads.
-        //   Developed new and maintained existing applications.
-        //   Increased productivity and problem-solving technics by 20%.
-        //   We primarily used PERN and MERN Stack. 80% of my work was doing backend development and the remaining 20% was DevOps-related tasks.
-        //   `,
-        //   // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
-        //   color: "#0071C5",
-        // },
         {
           title: "Analytics Engineer",
           company: "Miko.ai",
@@ -423,72 +375,6 @@ Delivered actionable recommendations to hospital management focused on optimizin
 Demonstrated strong analytical thinking and customer focus by translating core business needs into clear, effective reporting and visualization tools, successfully completing the high-visibility project on time and exceeding executive expectations.`,
           color: "#4285F4",
         },
-        // {
-        //   title: "Campus Hustler",
-        //   company: "Skillenza",
-        //   company_url: "https://skillenza.com/",
-        //   logo_path: "skillenza.png",
-        //   duration: "Feb 2021 - Present",
-        //   location: "Work from Home",
-        //   description:
-        //     "Spread Awareness of new Technologies and new Opportunities to Students and Grow Skillenza Community.",
-        //   color: "#196acf",
-        // },
-        /* {
-          title: "GDG Student Volunteer",
-          company: "Google Developer Groups",
-          company_url: "https://gdg.community.dev/",
-          logo_path: "gdg.png",
-          duration: "Feb 2021 - Present",
-          location: "Work From Home",
-          description:
-            "Google Developer Group Surat Student Volunteer and Member.",
-          color: "#D83B01",
-        },
-        {
-          title: "Postman Student Expert",
-          company: "Postman",
-          company_url: "https://www.postman.com/",
-          logo_path: "postman.png",
-          duration: "Feb 2020 - Present",
-          location: "Work From Home",
-          description:
-            "Google Developer Group Surat Student Volunteer and Member.",
-          color: "#D83B01",
-        },
-        {
-          title: "GitHub Student Developer",
-          company: "GitHub",
-          company_url: "https://github.com/",
-          logo_path: "github.png",
-          duration: "Nov 2019 - Present",
-          location: "Work from Home",
-          description:
-            "Contribute to Open Source Community and Open Source Project.",
-          color: "#040f26",
-        },
-        {
-          title: "Google Local Guide",
-          company: "Google Map",
-          company_url: "https://maps.google.com/localguides/",
-          logo_path: "localguide.png",
-          duration: "Sep 2018 - Present",
-          location: "Work From Home",
-          description:
-            "Day-to-day responsibilities of helping local businesses to spread their business to the world. Helping users by writing reviews about different locations and spaces such as shops, malls, etc.",
-          color: "#D83B01",
-        },
-        {
-          title: "E. F. I. Student Volunteer",
-          company: "ENVIRONMENTALIST FOUNDATION OF INDIA",
-          company_url: "https://indiaenvironment.org/",
-          logo_path: "efi.png",
-          duration: "Apr 2017 - Present",
-          location: "Work From Home",
-          description:
-            "Take time out over weekends to join a gang of nation builders, nature enthusiasts to conserve what is left.",
-          color: "#5a900f",
-        }, */
       ],
     },
   ],
@@ -512,13 +398,6 @@ const contactPageData = {
     resumeLink:
       "https://drive.google.com/file/d/1Peh-nkHfRSV7ieoiYkW_pX2lSNCgRjH3/view",
   },
-  /*   blogSection: {
-    title: "Blogs",
-    subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Twitter.",
-    link: "https://twitter.com/Harikrushn9",
-    avatar_image_path: "blogs_image.svg", 
-  }, */
 };
 
 const projects = {
@@ -563,17 +442,6 @@ const projects = {
             "https://github.com/tejaswinidhupad/Azure-Databricks-Formula1-Project",
           iconifyClass: "ri:github-fill",
         },
-        /* {
-          name: "Devpost",
-          url: "https://devpost.com/software/keep-calm-and-carry-on",
-          iconifyClass: "fluent:window-dev-edit-20-filled",
-        },
-        {
-          name: "Live Demo",
-          url:
-            "https://akshitagupta15june.github.io/Keep-Calm-and-Carry-On.github.io/",
-          iconifyClass: "mdi:web",
-        }, */
       ],
     },
     {
@@ -651,16 +519,6 @@ const projects = {
             "https://github.com/tejaswinidhupad/Application-Tracking-System-ATS-Using-Google-Gemini",
           iconifyClass: "ri:github-fill",
         },
-        /* {
-          name: "Devpost",
-          url: "https://devpost.com/software/adoptisity",
-          iconifyClass: "fluent:window-dev-edit-20-filled",
-        },
-        {
-          name: "Live Demo",
-          url: "https://rajmahadevwala1.wixsite.com/adoptisity",
-          iconifyClass: "mdi:web",
-        }, */
       ],
     },
     {
@@ -674,10 +532,6 @@ const projects = {
           name: "Google Gemini LLM",
           iconifyClass: "logos:google",
         },
-        /*  {
-          name: "Hugging Face Embeddings",
-          iconifyClass: "logos:huggingface-icon",
-        }, */
         {
           name: "Streamlit for UI",
           iconifyClass: "logos:streamlit",
@@ -686,10 +540,6 @@ const projects = {
           name: "LangChain Framework",
           iconifyClass: "simple-icons:langchain",
         },
-        /* {
-          name: "ChromaDB (Vector Store)",
-          iconifyClass: "simple-icons:chromadb",
-        }, */
         {
           name: "Few-Shot Learning",
           iconifyClass: "mdi:lightbulb-on-outline",
@@ -701,11 +551,6 @@ const projects = {
           url: "https://github.com/tejaswinidhupad/Gemini-Chatbot",
           iconifyClass: "ri:github-fill",
         },
-        /* {
-          name: "Devpost",
-          url: "https://devpost.com/software/finsplit",
-          iconifyClass: "fluent:window-dev-edit-20-filled",
-        }, */
       ],
     },
     {
@@ -746,11 +591,6 @@ const projects = {
           url: "https://github.com/tejaswinidhupad/Child-Wasting-Prediction",
           iconifyClass: "ri:github-fill",
         },
-        /* {
-          name: "Devpost",
-          url: "https://devpost.com/software/emosic",
-          iconifyClass: "fluent:window-dev-edit-20-filled",
-        }, */
       ],
     },
     {
@@ -781,11 +621,6 @@ const projects = {
             "https://github.com/tejaswinidhupad/Master-Thesis-Healthcare-Analytics",
           iconifyClass: "ri:github-fill",
         },
-        /*   {
-          name: "Devpost",
-          url: "https://devpost.com/software/fileblok",
-          iconifyClass: "fluent:window-dev-edit-20-filled",
-        }, */
       ],
     },
     {
@@ -824,11 +659,6 @@ const projects = {
             "https://github.com/tejaswinidhupad/Process-Mining-over-Unordered-Stream---Replication",
           iconifyClass: "ri:github-fill",
         },
-        /* {
-          name: "Live Demo",
-          url: "https://bauddhikgeeks.co/",
-          iconifyClass: "mdi:web",
-        }, */
       ],
     },
     {
@@ -858,22 +688,6 @@ const projects = {
           name: "NumPy",
           iconifyClass: "logos:numpy",
         },
-        /*         {
-          name: "Matplotlib",
-          iconifyClass: "logos:matplotlib",
-        }, */
-        /*  {
-          name: "Plotly",
-          iconifyClass: "logos:plotly",
-        }, */
-        /* {
-          name: "PM4Py",
-          iconifyClass: "mdi:process",
-        },
-        {
-          name: "Seaborn",
-          iconifyClass: "simple-icons:seaborn",
-        }, */
         {
           name: "Tabulate",
           iconifyClass: "mdi:table",
@@ -941,10 +755,6 @@ const projects = {
       description:
         "Implementation of a big data management and analysis backbone architecture using PySpark for distributed and scalable data ingestion and MLlib for machine learning analysis.",
       languages: [
-        /* {
-          name: "Big Data",
-          iconifyClass: "simple-icons:apachehadoop",
-        }, */
         {
           name: "Machine Learning",
           iconifyClass: "logos:tensorflow",
@@ -1057,146 +867,8 @@ const projects = {
           url: "https://github.com/tejaswinidhupad/SDM-Lab-3",
           iconifyClass: "ri:github-fill",
         },
-        /* {
-          name: "Live Demo",
-          url: "https://harikanani.github.io/",
-          iconifyClass: "mdi:web",
-        }, */
       ],
     },
-    // {
-    //   id: "6",
-    //   name: "Automate Attendace",
-    //   url: "https://github.com/harikanani/Node_Python",
-    //   description: "Automation of Online Attendance using node js and python",
-    //   languages: [
-    //     {
-    //       name: "JavaScript",
-    //       iconifyClass: "logos-javascript",
-    //     },
-    //     {
-    //       name: "Python",
-    //       iconifyClass: "logos-python",
-    //     },
-    //   ],
-    //   links: [
-    //     {
-    //       name: "Github",
-    //       url: "",
-    //       iconifyClass: "ri:github-fill",
-    //     },
-    //     {
-    //       name: "Devfolio",
-    //       url: "",
-    //       iconifyClass: "ri:github-fill",
-    //     },
-    //   ],
-    // },
-    // {
-    //   id: "7",
-    //   name: "Automate Discord Bot",
-    //   url: "https://github.com/harikanani/AutomateDiscordBot",
-    //   description:
-    //     "A Discord Bot to send Automatic messages to serer channel in regular time difference.",
-    //   languages: [
-    //     {
-    //       name: "Python",
-    //       iconifyClass: "logos-python",
-    //     },
-    //     {
-    //       name: "Python Selenium",
-    //       iconifyClass: "logos-selenium",
-    //     },
-    //     {
-    //       name: "Chromium Browser",
-    //       iconifyClass: "openmoji-chromium",
-    //     },
-    //   ],
-    //   links: [
-    //     {
-    //       name: "Github",
-    //       url: "",
-    //       iconifyClass: "ri:github-fill",
-    //     },
-    //     {
-    //       name: "Devfolio",
-    //       url: "",
-    //       iconifyClass: "ri:github-fill",
-    //     },
-    //   ],
-    // },
-    // {
-    //   id: "8",
-    //   name: "Flask Blog",
-    //   url: "https://github.com/harikanani/flask_blog",
-    //   description: "A Simple Blog Web Application made using Flask Framework",
-    //   languages: [
-    //     {
-    //       name: "Python",
-    //       iconifyClass: "logos-python",
-    //     },
-    //     {
-    //       name: "Flask",
-    //       iconifyClass: "cib-flask",
-    //     },
-    //     {
-    //       name: "HTML5",
-    //       iconifyClass: "vscode-icons:file-type-html",
-    //     },
-    //     {
-    //       name: "CSS3",
-    //       iconifyClass: "vscode-icons:file-type-css",
-    //     },
-    //   ],
-    //   links: [
-    //     {
-    //       name: "Github",
-    //       url: "",
-    //       iconifyClass: "ri:github-fill",
-    //     },
-    //     {
-    //       name: "Devfolio",
-    //       url: "",
-    //       iconifyClass: "ri:github-fill",
-    //     },
-    //   ],
-    // },
-    // {
-    //   id: "9",
-    //   name: "Netflix top series",
-    //   url: "https://github.com/harikanani/netflix-top-series",
-    //   description: "List of Top Netflix Series which is deployed to vercel.",
-    //   languages: [
-    //     {
-    //       name: "JavaScript",
-    //       iconifyClass: "logos-javascript",
-    //     },
-    //     {
-    //       name: "ReactJS",
-    //       iconifyClass: "logos-react",
-    //     },
-    //     {
-    //       name: "HTML5",
-    //       iconifyClass: "logos-html-5",
-    //     },
-    //     {
-    //       name: "CSS3",
-    //       iconifyClass: "logos-css-3",
-    //     },
-    //   ],
-    //   links: [
-    //     {
-    //       name: "Github",
-    //       url: "",
-    //       iconifyClass: "ri:github-fill",
-    //     },
-    //     {
-    //       name: "Devfolio",
-    //       url: "",
-    //       iconifyClass: "ri:github-fill",
-    //     },
-    //   ],
-    // },
     {
       id: "14",
       name: "Realtime Database with Firebase",
@@ -1226,74 +898,6 @@ const projects = {
         },
       ],
     },
-    // {
-    //   id: "11",
-    //   name: "Food Order Static Website",
-    //   url: "https://github.com/harikanani/food-order-website",
-    //   description:
-    //     "A simple static website related to food restaurants service. this is reasponsive as well.",
-    //   languages: [
-    //     {
-    //       name: "HTML5",
-    //       iconifyClass: "logos-html-5",
-    //     },
-    //     {
-    //       name: "CSS3",
-    //       iconifyClass: "logos-css-3",
-    //     },
-    //     {
-    //       name: "JavaScript",
-    //       iconifyClass: "logos-javascript",
-    //     },
-    //     {
-    //       name: "PHP",
-    //       iconifyClass: "logos-php",
-    //     },
-    //   ],
-    //   links: [
-    //     {
-    //       name: "Github",
-    //       url: "",
-    //       iconifyClass: "ri:github-fill",
-    //     },
-    //     {
-    //       name: "Devfolio",
-    //       url: "",
-    //       iconifyClass: "ri:github-fill",
-    //     },
-    //   ],
-    // },
-    // {
-    //   id: "12",
-    //   name: "NFT Launchpad",
-    //   url: "https://deliquescent-cents.000webhostapp.com/",
-    //   description: "NFT Launchpad crypto site portfolio",
-    //   languages: [
-    //     {
-    //       name: "HTML5",
-    //       iconifyClass: "logos-html-5",
-    //     },
-    //     {
-    //       name: "CSS3",
-    //       iconifyClass: "logos-css-3",
-    //     },
-    //     {
-    //       name: "JavaScript",
-    //       iconifyClass: "logos-javascript",
-    //     },
-    //     {
-    //       name: "ReactJS",
-    //       iconifyClass: "logos-react",
-    //     },
-    //   ],
-    //   links: [
-    //     {
-    //       name: "Github",
-    //       url: "https://github.com/harikanani/nft-launchpad",
-    //       iconifyClass: "ri:github-fill",
-    //     },
-    //   ],
-    // },
   ],
 };
 
