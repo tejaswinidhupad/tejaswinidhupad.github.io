@@ -1,9 +1,9 @@
-# 🌐 My Personal Portfolio Website
+# My Personal Portfolio Website 🌐
 
 Welcome to my personal portfolio website, built with React, JavaScript, and GitHub Pages.
 This project showcases my journey as a Data & Analytics professional who decided to step beyond dashboards and dive into the world of frontend development 💻✨
 
-# 🚀 Live Demo
+# Live Demo 🚀
 
 🔗 Visit my [Portfolio](https://tejaswinidhupad.github.io/#/home)
 
@@ -25,7 +25,7 @@ This project showcases my journey as a Data & Analytics professional who decided
 
 - Replace `homepage` in package.json to your domain name or `https://<username>.github.io`
 - In `src/portfolio.js` you can add your personal portfolio details.
-- In `src/theme.js` you can change the theme colors. You can change between Light and Dark theme with the theme switch on the header.
+- In `src/theme.js` you can change the theme colors.
 
 # How to Deploy
 
@@ -62,5 +62,5 @@ Now, your website is successfully deployed and you can visit it at `<your-github
 
 # References
 
-Based on [https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio](https://github.com/harikanani/harikanani.github.io)
+Based on https://github.com/harikanani/harikanani.github.io
 Illustrations: https://undraw.co/
